@@ -1,0 +1,25 @@
+{
+  "name": "datakelompok",
+  "version": "1.0.0",
+  "description": "CRUD biodata kelompok kita",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helenadinar/datakelompok.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helenadinar/datakelompok/issues"
+  },
+  "homepage": "https://github.com/helenadinar/datakelompok#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "formidable": "^1.0.17"
+  },
+  "devDependencies": {}
+}
