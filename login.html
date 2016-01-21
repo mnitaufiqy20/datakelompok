@@ -1,35 +1,3 @@
- <html>
-<head>
-      <title> From komentar </title>
-</head>
-<body>
-<table>
-<tr>
-<tdcolspan="3">&nbsp;</td></tr><tr>
-  <td colspan="3"><h3>Komentar </h3></td>
-</tr>
-<tr>
-<td>GitHub</td>
-<td>:</td>
-<td><input type=text name="nama"></td>
-</tr>
-<tr>
-<td>NIM</td>
-<td>:</td>
-<td><input type=text name="email"></td>
-</tr>
-<tr>
-<td valign=top>Komentar</td>
-<td valign=top>:</td>
-<td><textarea name="komentar" rows=6 width=200></textarea></td>
-</tr>
-<tr>
-<td colspan="3"><input type=submit name="OK"
-value=OK></td>
-</tr>
-</table>
-</body>
-</html>
 <table width="405" height="169" border="0" cellpadding="0" cellspacing="0">
 
     <tr bgcolor="#428ef6">
